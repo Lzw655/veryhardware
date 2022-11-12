@@ -1,0 +1,41 @@
+work_dir = C:\Users\liu\Desktop\Project\veryhardware\adapter_board\YYSJ_2.1''_knob
+in_pcb_file = YYSJ_2.1''_knob.kicad_pcb
+root_schematic_file = YYSJ_2.1''_knob.kicad_sch
+store to sheet[] = YYSJ_2.1''_knob.kicad_sch
+/1c70287e-8da0-4aeb-b002-ee811cbf6064 ('R1', (6286, 6731), '')
+/2431d9f1-67bd-475c-ba24-8d650e482f14 ('D5', (10223, 7683), '')
+/4308bc5e-e01a-4f49-9fc0-8e5c495700e3 ('R2', (6286, 6984), '')
+/4ded51da-9335-4260-9937-62a450d5bcf1 ('#PWR01', (7683, 10287), '')
+/5b6ed19d-f086-45c2-b24c-05f89e99f502 ('D3', (8001, 9144), '')
+/673c7fbf-339b-4a82-b113-f3a592fd1607 ('C1', (9207, 6604), '')
+/8e583e0c-f274-402a-972e-d434d7d03de6 ('R3', (10223, 8890), '')
+/9c9d6920-d84d-458b-89df-e02e79384daf ('D2', (7683, 9144), '')
+/b2f49a10-0a90-4f45-9b0e-c605491ec247 ('J1', (4381, 7747), '')
+/badbbdc5-711a-448a-bf11-da7c187e0e7a ('D4', (8572, 6223), '')
+/ccc03b5a-6f40-489e-a110-3413e76295b8 ('J2', (15240, 8255), '')
+/e586b63f-16a0-4b96-bcd2-f7bd5b2dfb43 ('D1', (7366, 9144), '')
+/f1e19be3-64f5-4d01-96f7-ba7767e1c4a1 ('J3', (17780, 8001), '')
+R3 /8e583e0c-f274-402a-972e-d434d7d03de6
+  path = /8e583e0c-f274-402a-972e-d434d7d03de6   sheet =    ref = R3   pos = (10223, 8890)   new_pos = (153345000, 133350000)
+R2 /4308bc5e-e01a-4f49-9fc0-8e5c495700e3
+  path = /4308bc5e-e01a-4f49-9fc0-8e5c495700e3   sheet =    ref = R2   pos = (6286, 6984)   new_pos = (94290000, 104760000)
+R1 /1c70287e-8da0-4aeb-b002-ee811cbf6064
+  path = /1c70287e-8da0-4aeb-b002-ee811cbf6064   sheet =    ref = R1   pos = (6286, 6731)   new_pos = (94290000, 100965000)
+J3 /f1e19be3-64f5-4d01-96f7-ba7767e1c4a1
+  path = /f1e19be3-64f5-4d01-96f7-ba7767e1c4a1   sheet =    ref = J3   pos = (17780, 8001)   new_pos = (266700000, 120015000)
+J2 /ccc03b5a-6f40-489e-a110-3413e76295b8
+  path = /ccc03b5a-6f40-489e-a110-3413e76295b8   sheet =    ref = J2   pos = (15240, 8255)   new_pos = (228600000, 123825000)
+J1 /b2f49a10-0a90-4f45-9b0e-c605491ec247
+  path = /b2f49a10-0a90-4f45-9b0e-c605491ec247   sheet =    ref = J1   pos = (4381, 7747)   new_pos = (65715000, 116205000)
+D5 /2431d9f1-67bd-475c-ba24-8d650e482f14
+  path = /2431d9f1-67bd-475c-ba24-8d650e482f14   sheet =    ref = D5   pos = (10223, 7683)   new_pos = (153345000, 115245000)
+D4 /badbbdc5-711a-448a-bf11-da7c187e0e7a
+  path = /badbbdc5-711a-448a-bf11-da7c187e0e7a   sheet =    ref = D4   pos = (8572, 6223)   new_pos = (128580000, 93345000)
+D3 /5b6ed19d-f086-45c2-b24c-05f89e99f502
+  path = /5b6ed19d-f086-45c2-b24c-05f89e99f502   sheet =    ref = D3   pos = (8001, 9144)   new_pos = (120015000, 137160000)
+D2 /9c9d6920-d84d-458b-89df-e02e79384daf
+  path = /9c9d6920-d84d-458b-89df-e02e79384daf   sheet =    ref = D2   pos = (7683, 9144)   new_pos = (115245000, 137160000)
+D1 /e586b63f-16a0-4b96-bcd2-f7bd5b2dfb43
+  path = /e586b63f-16a0-4b96-bcd2-f7bd5b2dfb43   sheet =    ref = D1   pos = (7366, 9144)   new_pos = (110490000, 137160000)
+C1 /673c7fbf-339b-4a82-b113-f3a592fd1607
+  path = /673c7fbf-339b-4a82-b113-f3a592fd1607   sheet =    ref = C1   pos = (9207, 6604)   new_pos = (138105000, 99060000)
