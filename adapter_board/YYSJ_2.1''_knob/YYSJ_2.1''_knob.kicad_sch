@@ -1190,7 +1190,7 @@
     (property "Value" "Conn_01x10" (id 1) (at 172.72 95.885 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical" (id 2) (at 177.8 80.01 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Horizontal" (id 2) (at 177.8 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 177.8 80.01 0)
@@ -1241,7 +1241,7 @@
       (reference "J2") (unit 1) (value "FPC 10") (footprint "Connector_FFC-FPC:Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal")
     )
     (path "/f1e19be3-64f5-4d01-96f7-ba7767e1c4a1"
-      (reference "J3") (unit 1) (value "Conn_01x10") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "Conn_01x10") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Horizontal")
     )
     (path "/1c70287e-8da0-4aeb-b002-ee811cbf6064"
       (reference "R1") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0603_1608Metric")
