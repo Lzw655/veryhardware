@@ -4,12 +4,12 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 0.6000000238418579,
+      "pads": 1.0,
       "tracks": 1.0,
-      "vias": 0.6000000238418579,
+      "vias": 1.0,
       "zones": 0.6
     },
     "ratsnest_display_mode": 0,
@@ -18,7 +18,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "00290aa_80000001",
+    "visible_layers": "00290ba_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "YYSJ_2.1''_knob.kicad_prl",
+    "filename": "ZDYZ_7''_RGB.kicad_prl",
     "version": 3
   },
   "project": {
