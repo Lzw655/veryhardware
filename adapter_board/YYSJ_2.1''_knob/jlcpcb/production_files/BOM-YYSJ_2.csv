@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x10,J3,PinHeader_1x10_P2.54mm_Horizontal,
+1k,R3,R_0603_1608Metric,
+LESD5D5.0CT1G,D2,D_SOD-523,
+LESD5D5.0CT1G,D3,D_SOD-523,
+LESD5D5.0CT1G,D1,D_SOD-523,
+USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,
+LED,D5,LED_0603_1608Metric,
+4.7k,R1,R_0603_1608Metric,
+SS34,D4,D_SMA,
+22uF/10V(20%),C1,C_0603_1608Metric,
+4.7k,R2,R_0603_1608Metric,
+FPC 10,J2,Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal,
