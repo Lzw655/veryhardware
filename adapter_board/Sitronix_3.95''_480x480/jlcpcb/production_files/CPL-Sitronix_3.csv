@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,ESP32-S3-LCD-EV-BOARD_SUB_LCD_RGB,PinSocket_2x20_P2.54mm_Vertical,80.538,-64.8,0.0,bottom
+J2,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,90.927,-72.898,90.0,top
+J3,Conn_02x20_Counter_Clockwise,Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal,101.666,-86.741,90.0,top
+R1,4.7k,R_0603_1608Metric,93.797,-79.491,0.0,top
+R2,4.7k,R_0603_1608Metric,93.797,-95.491,180.0,top
