@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+Conn_02x26_Counter_Clockwise,J2,Molex_502250-5191_2Rows-51Pins-1MP_P0.60mm_Horizontal,
+10K,R2,R_0603_1608Metric,
+Conn_01x02,J4,PinHeader_1x02_P2.54mm_Vertical,
+Conn_01x03,J3,PinHeader_1x03_P2.54mm_Vertical,
+10K,R1,R_0603_1608Metric,
+ESP32-S3-LCD-EV-BOARD_SUB_LCD_RGB,J1,PinSocket_2x20_P2.54mm_Vertical,

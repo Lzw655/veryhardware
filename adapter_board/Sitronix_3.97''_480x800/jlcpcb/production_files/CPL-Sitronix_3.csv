@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,ESP32-S3-LCD-EV-BOARD_SUB_LCD_RGB,PinSocket_2x20_P2.54mm_Vertical,100.564,-63.276,0.0,bottom
+J2,Conn_02x26_Counter_Clockwise,Molex_502250-5191_2Rows-51Pins-1MP_P0.60mm_Horizontal,80.518,-87.376,180.0,top
+J3,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,86.868,-103.886,90.0,top
+J4,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,83.048,-103.886,-90.0,top
+R1,10K,R_0603_1608Metric,86.677,-81.676,0.0,top
+R2,10K,R_0603_1608Metric,86.677,-90.676,0.0,top
