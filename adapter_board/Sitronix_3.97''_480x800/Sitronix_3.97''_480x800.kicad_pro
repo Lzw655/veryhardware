@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -350,7 +350,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Sitronix_3.95''_480x480.kicad_pro",
+    "filename": "Sitronix_3.97''_480x800.kicad_pro",
     "version": 1
   },
   "net_settings": {
