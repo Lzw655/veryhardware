@@ -1,0 +1,85 @@
+work_dir = /home/liu/Documents/kicad/veryhardware/adapter_board/Sitronix_2.1''_480x480
+in_pcb_file = Sitronix_2.1''_480x480.kicad_pcb
+root_schematic_file = Sitronix_2.1''_480x480.kicad_sch
+store to sheet[] = Sitronix_2.1''_480x480.kicad_sch
+/16706422-d2d8-4c81-880d-d1f829d081ae ('RB1', (24003, 4064), '')
+/3d0d028b-c48a-43be-84fd-7a098cde8bdf ('J1', (5588, 4953), '')
+/3ee62d53-def8-4e9b-bf76-597669b90e42 ('RA1', (24003, 3556), '')
+/55fbbcc1-8b39-434f-835e-2c995833b8e3 ('RA2', (24003, 4826), '')
+/593e1120-0852-4e3b-a771-ce58971092ec ('RB8', (24003, 9144), '')
+/623edffb-48cb-4e8e-85c8-edf2144867f2 ('RA8', (24003, 10287), '')
+/657b9a2d-83a2-4e15-ad38-fbc91a56f9d3 ('RA4', (24003, 6350), '')
+/6a67374a-822d-497a-bede-336bf18bb9b7 ('RA6', (24003, 8255), '')
+/6e3e1d01-7e43-4c60-a542-b5d7c616a3af ('RB4', (24003, 5969), '')
+/70155ae3-0aed-40df-bec3-222e765d4c3c ('RA10', (24003, 11811), '')
+/761f0947-366f-47ee-acc9-10b6bfed5ccf ('RA7', (24003, 9525), '')
+/786e9019-b049-4902-9fd8-b844d830156d ('RB2', (24003, 4445), '')
+/7b37713c-a553-4000-a960-716046023223 ('RB6', (24003, 7493), '')
+/7b7ec99a-3655-410e-b18b-f4c6ccff889c ('RA5', (24003, 7112), '')
+/7c9ca1dc-c322-47e3-8477-986b524c6d25 ('RB5', (24003, 6731), '')
+/81136768-becc-4f7e-8771-917e189cf3bc ('RA9', (24003, 11049), '')
+/841eaded-39fe-4958-97fd-e35a5a9ec198 ('R23', (18415, 5588), '')
+/92619bc8-fce9-4707-858f-cddfbe9d4ca0 ('RB9', (24003, 9906), '')
+/973385ec-bb2b-4210-aab9-908101464417 ('J3', (16129, 7366), '')
+/977e3b28-cadc-4415-89df-16a52b3b5082 ('RA3', (24003, 5588), '')
+/a5b4e6c3-a472-4ffe-91b9-c49cff925104 ('RB12', (24003, 12192), '')
+/aa9017d9-1316-4d36-986e-13697a5a3234 ('RB7', (24003, 8763), '')
+/bbbc1ba5-8182-46a2-a17b-850f96f9351b ('J2', (13462, 5334), '')
+/bcce364b-fa24-4fc2-b4d2-74e8d69b6255 ('RB10', (24003, 10668), '')
+/dfa8d74f-e624-4813-8e2a-e7a3c2ee2eac ('R21', (13588, 6350), '')
+/fba83951-403e-440b-b697-5057fe841edd ('RB11', (24003, 11430), '')
+/ff811cd5-18ed-458d-a95c-bcd371b1652a ('RB3', (24003, 5207), '')
+RB7 /aa9017d9-1316-4d36-986e-13697a5a3234
+  path = /aa9017d9-1316-4d36-986e-13697a5a3234   sheet =    ref = RB7   pos = (24003, 8763)   new_pos = (360045000, 131445000)
+RB2 /786e9019-b049-4902-9fd8-b844d830156d
+  path = /786e9019-b049-4902-9fd8-b844d830156d   sheet =    ref = RB2   pos = (24003, 4445)   new_pos = (360045000, 66675000)
+RB1 /16706422-d2d8-4c81-880d-d1f829d081ae
+  path = /16706422-d2d8-4c81-880d-d1f829d081ae   sheet =    ref = RB1   pos = (24003, 4064)   new_pos = (360045000, 60960000)
+RA10 /70155ae3-0aed-40df-bec3-222e765d4c3c
+  path = /70155ae3-0aed-40df-bec3-222e765d4c3c   sheet =    ref = RA10   pos = (24003, 11811)   new_pos = (360045000, 177165000)
+R23 /841eaded-39fe-4958-97fd-e35a5a9ec198
+  path = /841eaded-39fe-4958-97fd-e35a5a9ec198   sheet =    ref = R23   pos = (18415, 5588)   new_pos = (276225000, 83820000)
+RA8 /623edffb-48cb-4e8e-85c8-edf2144867f2
+  path = /623edffb-48cb-4e8e-85c8-edf2144867f2   sheet =    ref = RA8   pos = (24003, 10287)   new_pos = (360045000, 154305000)
+RA1 /3ee62d53-def8-4e9b-bf76-597669b90e42
+  path = /3ee62d53-def8-4e9b-bf76-597669b90e42   sheet =    ref = RA1   pos = (24003, 3556)   new_pos = (360045000, 53340000)
+RB9 /92619bc8-fce9-4707-858f-cddfbe9d4ca0
+  path = /92619bc8-fce9-4707-858f-cddfbe9d4ca0   sheet =    ref = RB9   pos = (24003, 9906)   new_pos = (360045000, 148590000)
+RB5 /7c9ca1dc-c322-47e3-8477-986b524c6d25
+  path = /7c9ca1dc-c322-47e3-8477-986b524c6d25   sheet =    ref = RB5   pos = (24003, 6731)   new_pos = (360045000, 100965000)
+J2 /bbbc1ba5-8182-46a2-a17b-850f96f9351b
+  path = /bbbc1ba5-8182-46a2-a17b-850f96f9351b   sheet =    ref = J2   pos = (13462, 5334)   new_pos = (201930000, 80010000)
+RA7 /761f0947-366f-47ee-acc9-10b6bfed5ccf
+  path = /761f0947-366f-47ee-acc9-10b6bfed5ccf   sheet =    ref = RA7   pos = (24003, 9525)   new_pos = (360045000, 142875000)
+RB12 /a5b4e6c3-a472-4ffe-91b9-c49cff925104
+  path = /a5b4e6c3-a472-4ffe-91b9-c49cff925104   sheet =    ref = RB12   pos = (24003, 12192)   new_pos = (360045000, 182880000)
+RB4 /6e3e1d01-7e43-4c60-a542-b5d7c616a3af
+  path = /6e3e1d01-7e43-4c60-a542-b5d7c616a3af   sheet =    ref = RB4   pos = (24003, 5969)   new_pos = (360045000, 89535000)
+RB8 /593e1120-0852-4e3b-a771-ce58971092ec
+  path = /593e1120-0852-4e3b-a771-ce58971092ec   sheet =    ref = RB8   pos = (24003, 9144)   new_pos = (360045000, 137160000)
+RB6 /7b37713c-a553-4000-a960-716046023223
+  path = /7b37713c-a553-4000-a960-716046023223   sheet =    ref = RB6   pos = (24003, 7493)   new_pos = (360045000, 112395000)
+R21 /dfa8d74f-e624-4813-8e2a-e7a3c2ee2eac
+  path = /dfa8d74f-e624-4813-8e2a-e7a3c2ee2eac   sheet =    ref = R21   pos = (13588, 6350)   new_pos = (203820000, 95250000)
+RA9 /81136768-becc-4f7e-8771-917e189cf3bc
+  path = /81136768-becc-4f7e-8771-917e189cf3bc   sheet =    ref = RA9   pos = (24003, 11049)   new_pos = (360045000, 165735000)
+RA5 /7b7ec99a-3655-410e-b18b-f4c6ccff889c
+  path = /7b7ec99a-3655-410e-b18b-f4c6ccff889c   sheet =    ref = RA5   pos = (24003, 7112)   new_pos = (360045000, 106680000)
+J3 /973385ec-bb2b-4210-aab9-908101464417
+  path = /973385ec-bb2b-4210-aab9-908101464417   sheet =    ref = J3   pos = (16129, 7366)   new_pos = (241935000, 110490000)
+RB11 /fba83951-403e-440b-b697-5057fe841edd
+  path = /fba83951-403e-440b-b697-5057fe841edd   sheet =    ref = RB11   pos = (24003, 11430)   new_pos = (360045000, 171450000)
+RB10 /bcce364b-fa24-4fc2-b4d2-74e8d69b6255
+  path = /bcce364b-fa24-4fc2-b4d2-74e8d69b6255   sheet =    ref = RB10   pos = (24003, 10668)   new_pos = (360045000, 160020000)
+RA4 /657b9a2d-83a2-4e15-ad38-fbc91a56f9d3
+  path = /657b9a2d-83a2-4e15-ad38-fbc91a56f9d3   sheet =    ref = RA4   pos = (24003, 6350)   new_pos = (360045000, 95250000)
+RA2 /55fbbcc1-8b39-434f-835e-2c995833b8e3
+  path = /55fbbcc1-8b39-434f-835e-2c995833b8e3   sheet =    ref = RA2   pos = (24003, 4826)   new_pos = (360045000, 72390000)
+RA3 /977e3b28-cadc-4415-89df-16a52b3b5082
+  path = /977e3b28-cadc-4415-89df-16a52b3b5082   sheet =    ref = RA3   pos = (24003, 5588)   new_pos = (360045000, 83820000)
+RA6 /6a67374a-822d-497a-bede-336bf18bb9b7
+  path = /6a67374a-822d-497a-bede-336bf18bb9b7   sheet =    ref = RA6   pos = (24003, 8255)   new_pos = (360045000, 123825000)
+RB3 /ff811cd5-18ed-458d-a95c-bcd371b1652a
+  path = /ff811cd5-18ed-458d-a95c-bcd371b1652a   sheet =    ref = RB3   pos = (24003, 5207)   new_pos = (360045000, 78105000)
+J1 /3d0d028b-c48a-43be-84fd-7a098cde8bdf
+  path = /3d0d028b-c48a-43be-84fd-7a098cde8bdf   sheet =    ref = J1   pos = (5588, 4953)   new_pos = (83820000, 74295000)

@@ -1,0 +1,47 @@
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 394:Plugin executed on: 'linux'
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 395:Plugin executed with python version: '3.10.8 (main, Nov  1 2022, 14:18:21) [GCC 12.2.0]'
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 396:KiCad build version: (6.0.9)
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 397:Plugin version: 1.2.7
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 398:Frame repr: <wx._core.Frame object at 0x7f8b14c22050>
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB7 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB2 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB1 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA10 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R23 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA8 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA1 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB9 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB5 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA7 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB12 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB4 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB8 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB6 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R21 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA9 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA5 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J3 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB11 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB10 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA4 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA2 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA3 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RA6 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RB3 on root level
+12-03 19:23:48 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+12-03 19:23:57 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 572:Reference designator is: J
+12-03 19:23:57 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 573:Reference number is: 3
+12-03 19:23:57 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 605:Sorted and filtered list:
+['J1', 'J2', 'J3']
+12-03 19:24:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 643:Footprints to place:
+['J1']
+12-03 19:24:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 337:Starting placing with linear layout
+12-03 19:24:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 685:Fatal error when executing place footprints
+Traceback (most recent call last):
+  File "/home/liu/Documents/kicad/kicad_custom_lib/3rdparty/plugins/com_github_MitjaNemec_PlaceFootprints/action_place_footprints.py", line 680, in Run
+    placer.place_linear(footprints_to_place, ref_fp_ref, step_x, step_y, step, rotation,
+  File "/home/liu/Documents/kicad/kicad_custom_lib/3rdparty/plugins/com_github_MitjaNemec_PlaceFootprints/place_footprints.py", line 347, in place_linear
+    ref_fp_index = footprints.index(ref_fp)
+ValueError: Footprint(ref='J3', fp=<pcbnew.FOOTPRINT; proxy of <Swig Object of type 'std::deque< FOOTPRINT * >::value_type' at 0x7f8b2638f300> >, fp_id='973385EC-BB2B-4210-AAB9-908101464417', sheet_id=[], filename=[]) is not in list
